@@ -11,7 +11,7 @@ int server_port = 80;//http
 
 void wifiClient_Setup(){
    const char* ssid = "Kinneret College";
-   //const char* password = "0504480371";
+   //const char* password = "0523047365";
    
     Serial.println("wifiSetup");
    WiFi.begin(ssid);
